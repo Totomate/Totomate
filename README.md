@@ -1,6 +1,6 @@
 Actualy working on [New Funny Bot](https://discord.bots.gg/bots/787648998403080222) <div>[![GitHub Totomatee](https://img.shields.io/github/followers/Totomatee?label=follow&style=social)](https://github.com/Totomatee) ![](n)</div>
 
-### Programación:
+### Programation:
 <p>
   <img align="left" alt="VSC" width="26px" src="https://api.iconify.design/mdi:visual-studio-code.svg?color=%2300fef4&height=32" />
   <img align="left" alt="Node.js" width="26px" src="https://api.iconify.design/mdi:nodejs.svg?color=%2300fef4&height=32" />
@@ -13,7 +13,7 @@ Actualy working on [New Funny Bot](https://discord.bots.gg/bots/7876489984030802
 
 <br>
 
-### Technology Stack:
+### Acquis Technologiques:
 
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
