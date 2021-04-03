@@ -38,7 +38,7 @@ Actualy working on [New Funny Bot](https://discord.bots.gg/bots/7876489984030802
 [<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/mdi:twitter.svg?color=%2300fef4&height=32" />][twitter]
 [<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/mdi:discord.svg?color=%2300fef4&height=32" />][discord]
 [<img align="left" alt="Twitch" width="32px" src="https://api.iconify.design/mdi:twitch.svg?color=%2300fef4&height=32" />][twitch]
-[<img align="left" alt="Youtube" width="32px" src="https://api.iconify.design/mdi:youtube.svg?color=%2300fef4&height=32" />][patreon]
+[<img align="left" alt="Youtube" width="32px" src="https://api.iconify.design/mdi:youtube.svg?color=%2300fef4&height=32" />][youtube]
 [<img align="left" alt="Instagram" width="32px" src="https://api.iconify.design/mdi:instagram.svg?color=%2300fef4&height=32" />][instagram]
 
 <br /><br />
