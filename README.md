@@ -28,7 +28,7 @@ Actualy working on [New Funny Bot](https://discord.bots.gg/bots/7876489984030802
 [discord]: https://discord.gg/qCAMmgU
 [twitch]: https://www.twitch.tv/totomatee
 [youtube]: https://www.youtube.com/channel/UCKpa-WUMDZ-3eh2mm9loyxw
-[instagram]: https://www.instagram.com/srgobi_oficial/
+[instagram]: https://www.instagram.com/totomate.yt/
 
 
 
