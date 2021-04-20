@@ -32,7 +32,7 @@ Actualy working on [New Funny Bot](https://discord.bots.gg/bots/7876489984030802
 
 
 
-### Sígueme:
+### Sites:
 
 [<img align="left" alt="snazzah.com" width="32px" src="https://api.iconify.design/bi:globe.svg?color=%2300fef4&height=32" />][website]
 [<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/mdi:twitter.svg?color=%2300fef4&height=32" />][twitter]
