@@ -45,7 +45,7 @@ Actualy working on [New Funny Bot](https://top.gg/bot/787648998403080222) <div>[
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Totomatee&title_color=246bce&text_color=ffffff&bg_color=000000&include_all_commits=true&hide_border=true&hide_title=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Totomate&title_color=246bce&text_color=ffffff&bg_color=000000&include_all_commits=true&hide_border=true&hide_title=true)
 
 [![Discord Bots](https://top.gg/api/widget/787648998403080222.svg)](https://top.gg/bot/787648998403080222)
 
