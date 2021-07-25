@@ -1,4 +1,4 @@
-Actualy working on [New Funny Bot](https://discord.bots.gg/bots/787648998403080222) <div>[![GitHub Totomatee](https://img.shields.io/github/followers/Totomatee?label=follow&style=social)](https://github.com/Totomatee) ![](n)</div>
+Actualy working on [New Funny Bot](https://top.gg/bot/787648998403080222) <div>[![GitHub Totomatee](https://img.shields.io/github/followers/Totomatee?label=follow&style=social)](https://github.com/Totomatee) ![](n)</div>
 
 ### Programation:
 <p>
