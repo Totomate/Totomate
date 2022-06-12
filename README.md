@@ -23,7 +23,7 @@ Actualy working on [New Funny Bot](https://top.gg/bot/787648998403080222) <div>[
 
 </p>
 
-[website]: https://discord.gg/qCAMmgU
+[website]: http://totomate.top
 [twitter]: https://twitter.com/totomatee
 [discord]: https://discord.gg/qCAMmgU
 [twitch]: https://www.twitch.tv/totomatee
